@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_tittle">Netmanager</string>
+    <string name="app_name">Netmanager</string>
+    <string name="sumnet_name">NetTraffic</string>
+    <string name="NetAcessControl_label">NetAcessControl</string>
+    <string name="Trafficstatistics_label">Trafficstatistics</string>
+    <string name="Exit_label">Exit</string>
+    <string name="About_label">About</string>
+    
+    <string name="about_title">About Android Netmanager</string>
+    <string name="about_text">\
+        version 1.0\n
+        Developed by Wenhuabin and Wudan.      
+	</string>
+	<string name="NetAC_title">Net Access Control</string>
+	<string name="app_text">Apps list(blacklist) </string>
+	<string name="text_wifi">wifi</string>
+	<string name="text_3g">3g</string>
+	<string name="apply_label">Apply</string>
+    <string name="clear_label">Clear</string>
+	<string name="toast_bin_installed">Binary files installed!</string>
+	<string name="show_textview_name">Application_list</string>
+	<string name="show_textview_rx">download KB</string>
+    <string name="show_textview_tx">upload KB</string>
+    <string name="show_textview_total">sum KB</string>
+    
+	
+    <string name="liuliangdanwei">M</string>
+    <string name="morenliuliang">0.0</string>
+    <string name="now_liuliang_total">Current Sum</string>
+    <string name="g_down_total">3g download：</string>
+    <string name="g_up_total">3g upload：</string>
+    <string name="g_total">3g Sum：</string>
+    <string name="down_total">DOWNLOAD：</string>
+    <string name="up_total">UPLOAD：</string>
+    <string name="total_liuliang">Sum：</string>
+    <string name="date_chose_start">Start time</string>
+    <string name="date_chose_over">End time</string>
+    <string name="search_now"> Query </string>
+    <string name="every_apps_data">for each app</string>
+    <string name="show_now">current</string>
+
+</resources>
